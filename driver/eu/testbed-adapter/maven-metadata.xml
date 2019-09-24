@@ -3,10 +3,10 @@
   <groupId>driver.eu</groupId>
   <artifactId>testbed-adapter</artifactId>
   <versioning>
-    <release>1.2.16</release>
+    <release>1.2.17</release>
     <versions>
-      <version>1.2.16</version>
+      <version>1.2.17</version>
     </versions>
-    <lastUpdated>20190924073236</lastUpdated>
+    <lastUpdated>20190924113327</lastUpdated>
   </versioning>
 </metadata>
